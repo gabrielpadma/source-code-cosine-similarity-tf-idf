@@ -1,6 +1,10 @@
 <?php
 class Cosine
 {
+
+    private function _tes(){
+        echo 'coba';
+    }
     private function _preproses($teks)
     {
 
